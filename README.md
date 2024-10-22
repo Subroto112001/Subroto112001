@@ -1,3 +1,4 @@
+![R](https://github.com/user-attachments/assets/a067ce89-57d1-40e2-a61c-dac766f8a5fe)
 Hi 👋, I'm Subroto Kumar Barman
 
 # 💫 About Me:
