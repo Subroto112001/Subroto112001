@@ -1,6 +1,6 @@
 ![1R](https://github.com/user-attachments/assets/8249fd51-47d6-4c8c-b4a0-15d1b1bc0718)
 
-Hi 👋, I'm Subroto Kumar Barman
+Hi 👋, I'm Subroto Kumar Barman<br>
 MERN Stuck WebDeveloper.
 
 # 💫 About Me:
