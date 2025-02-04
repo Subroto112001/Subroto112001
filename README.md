@@ -40,7 +40,7 @@ MERN Stuck WebDeveloper.
 
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="34%">
 
 ### Tools & OS
 
